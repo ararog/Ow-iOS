@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Ow
+
+  Created by Rogério Pereira Araújo on 12/08/14.
+  Copyright (c) 2014 Bmobile. All rights reserved.
+*/
+
+"invalid.credentials" = "Invalid credentials!";
+"Login" = "Login";
+"Register" = "Register";
+"Country" = "Country";
+"Phone Number" = "Phone Number";
+"Code" = "Code";
+"Confirm" = "Confirm";
+"Settings" = "Settings";
+"Contacts" = "Contacts";
+"Notifications" = "Notifications";
+"Choose a Country" = "Choose a Country";
+"No contacts found" = "No contacts found";
+"No countries found" = "No countries found";
+"No notifications found" = "No notifications found";
+"Choose Notification" = "Notification";
+"Wait" = "Wait";
+"vamo" = "Let's go?";
+"perai" = "Wait!";
+"chegou" = "Arrived";
+"maneiro" = "Cool!";
+"tocomfome" = "I'm hungry!";
+"owkey" = "Ok!";
+"%@ warned: %@" = "%@ warned: %@";
+"Cancel" = "Cancel";
+"Attention!" = "Attention!";
+"Are you really want delete all notifications?" = "Are you really want delete all notifications?";
+"Yes" = "Yes";
+"No" = "No";
+"Try Ow today in your smartphone. Download at http://ow.com/download!"="Try Ow today in your smartphone. Download at http://ow.com/download!";
+"Ow Notifier: iPhone, Android and Windows Phone"="Ow Notifier: iPhone, Android and Windows Phone";
+"Tell to a friend" = "Tell to a friend";
